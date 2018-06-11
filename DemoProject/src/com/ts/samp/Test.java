@@ -14,8 +14,7 @@ public class Test {
 		
 		for(String country:locale) {
 			System.out.println("country is:"+country);
-		}
-		
+		}		
 		
 	}
 }
